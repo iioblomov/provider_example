@@ -20,7 +20,7 @@ class ClickCounter with ChangeNotifier {
   // change counter
   void add() {
     count++;
-    notifyListeners(); // tell Consumer to change
+    notifyListeners(); // tell Provider to update listeners
   }
 }
 
