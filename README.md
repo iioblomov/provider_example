@@ -6,5 +6,5 @@ The app implements the change of the widget state using stateless widget and Pro
 
 ## Contents
 
-lib/main.dart - one page app
+lib/main.dart - one page app  
 pubscpec.yaml - app manifest 
